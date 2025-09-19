@@ -1,3 +1,2 @@
 # KP-s-repo
-This is a testing repo
-testtesttest
+This repository saves KPs work in CShl course in UWC.
